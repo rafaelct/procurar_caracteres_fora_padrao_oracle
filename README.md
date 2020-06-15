@@ -8,7 +8,8 @@ Como Instalar:
 Uso: 
 
 <pre>
-python procurar_caracteres_fora_padrao_oracle.py
+python procurar_caracteres_fora_padrao_oracle.py > resultado.csv
+Aonde resultado.csv é aonde sera gravado o resultado, depois é só abrir esse arquivo no Excel ou LibreCalc
 
 Como Usar:
 
